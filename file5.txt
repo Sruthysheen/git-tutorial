@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 my name is Sruthy sheen
 
 his name is sheen sasi
+=======
+>>>>>>> parent of 3819cd1 (file5 edited)
